@@ -1,5 +1,5 @@
 # pokemon-card-Random
-<h1> random pokemon card created with HTML, CSS, JS 🐲 <h1>
+<b> random pokemon card created with HTML, CSS, JS 🐲 </b>
   <br>
    <br>
    <br>
