@@ -1,5 +1,5 @@
 # pokemon-card-Random
-<h1> random pokemon card created with HTML, CSS, JS 🐲 </h1>
+ random pokemon card created with HTML, CSS, JS 🐲 
   <br>
 <a href="https://pokemon-card-random.netlify.app/" target="_blank">visit the project... </a>
 <br>
